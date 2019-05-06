@@ -1,0 +1,3 @@
+C:/Users/ultig/OneDrive/Рабочий стол/proga/!BallParticleCmake/bin/CMakeFiles/BallParticle.dir
+C:/Users/ultig/OneDrive/Рабочий стол/proga/!BallParticleCmake/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/ultig/OneDrive/Рабочий стол/proga/!BallParticleCmake/bin/CMakeFiles/ZERO_CHECK.dir
